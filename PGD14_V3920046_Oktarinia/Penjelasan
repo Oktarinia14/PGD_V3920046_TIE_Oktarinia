@@ -1,0 +1,3 @@
+Pada script tersebut akan menampilkan suatu pemutar musik. Pertama akan diminta untuk memasukkan musik yang ingin di putar, disini dapat memasukkan lebih dari satu musik. 
+Kemudian, akan ditampilkan secara urut sesuai musik yang dimasukkan dan akan memutarnya sesuai urutan tersebut.
+Saat musik diputar/play kita bisa mengehentikan lagu/stop, mengatur volume, dan menekan tombol next untuk memutar lagu selanjutnya.
